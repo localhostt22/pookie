@@ -1,0 +1,7 @@
+{
+    "autoload": {
+        "psr-4": {
+            "validation\\": "path/to/your/classes"
+        }
+    }
+}
